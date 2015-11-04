@@ -1,0 +1,10 @@
+{
+  "Host" : "",
+  "User" : "",
+  "DeployDirectory" : "",
+  "App" : "",
+  "Repo" : "",
+  "Commands" : [
+		""
+  ]
+}
